@@ -3,9 +3,9 @@
 🧠 Hoje eu sou estudante do 8° semestre de sistemas de informação.
 🤖 Estudando HTML5,CSS e front end.
 <div>
-  <a href="https://github.com/donovan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donovan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donovan&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/donovansantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donovansantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donovansantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
